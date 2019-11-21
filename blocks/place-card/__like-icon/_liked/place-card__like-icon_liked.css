@@ -1,0 +1,9 @@
+.place-card__like-active {
+  background: url(../../../images/like-active.svg) center no-repeat;
+  background-color: transparent;
+  border: none;
+  width: 21px;
+  height: 19px;
+  cursor: pointer;
+  transition: transform .3s linear;
+}

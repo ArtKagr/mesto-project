@@ -1,0 +1,8 @@
+.place-card__like-number {
+  border: none;
+  width: 10px;
+  height: 10px;
+  margin-bottom: 0;
+  margin: 0 5px 0 7px;
+  font-size: 13px;
+}

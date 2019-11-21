@@ -1,0 +1,13 @@
+@import url(./_type/_about/popup__validate_about.css);
+@import url(./_type/_link-url/popup__validate_link-url.css);
+@import url(./_type/_name/popup__validate_name.css);
+@import url(./_type/_person/popup__validate_person.css);
+
+.popup__validate {
+    margin: 4px 0 0 4px;
+    color: #FF0000;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+}
