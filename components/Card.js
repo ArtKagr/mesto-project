@@ -1,8 +1,4 @@
-import {inputName, inputLink, rootPage, placeList, popupContentImage, popupPersonButton, popupCardsButton,
-    popupAvatarButton, popupInputPerson, popupInputAbout, popupInputName, popupInputLink, popupInputUserLink,
-    popupValidatePerson, popupValidateName, popupValidateAbout, popupValidateLink, userInfoName, userInfoJob,
-    userInfoPhoto, userButton, editButton, imageButton, avatarButton, popupCards, popupPerson, popupImage,
-    popupAvatar, popupClose, regAr} from "./Variables.js";
+import {placeList, popupCardsButton, popupCards, api} from "../src/index";
 
 export default class Card {
     constructor(link, name, id, likes, visible) {
