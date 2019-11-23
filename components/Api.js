@@ -1,9 +1,4 @@
-import {inputName, inputLink, rootPage, placeList, popupContentImage, popupPersonButton, popupCardsButton,
-    popupAvatarButton, popupInputPerson, popupInputAbout, popupInputName, popupInputLink, popupInputUserLink,
-    popupValidatePerson, popupValidateName, popupValidateAbout, popupValidateLink, userInfoName, userInfoJob,
-    userInfoPhoto, userButton, editButton, imageButton, avatarButton, popupCards, popupPerson, popupImage,
-    popupAvatar, popupClose, regAr} from "./Variables.js";
-import ServerUrl from "../src/index";
+import {inputName, inputLink, popupInputPerson, popupInputAbout, popupInputUserLink} from "../src/index";
 
 export default class Api {
     constructor(options){
